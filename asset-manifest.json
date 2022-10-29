@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YaPutya/Frontend-MindBox-trainee/static/css/main.d213c28b.css",
+    "main.js": "/YaPutya/Frontend-MindBox-trainee/static/js/main.9eda96e7.js",
+    "static/media/img.png": "/YaPutya/Frontend-MindBox-trainee/static/media/img.7d89aad935958f2cbf26.png",
+    "static/media/circle.svg": "/YaPutya/Frontend-MindBox-trainee/static/media/circle.b587dd811ed035188412347f9081806c.svg",
+    "index.html": "/YaPutya/Frontend-MindBox-trainee/index.html",
+    "static/media/check.svg": "/YaPutya/Frontend-MindBox-trainee/static/media/check.9c7da7cca39bee4be8701c68227f5db4.svg",
+    "main.d213c28b.css.map": "/YaPutya/Frontend-MindBox-trainee/static/css/main.d213c28b.css.map",
+    "main.9eda96e7.js.map": "/YaPutya/Frontend-MindBox-trainee/static/js/main.9eda96e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d213c28b.css",
+    "static/js/main.9eda96e7.js"
+  ]
+}
