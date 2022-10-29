@@ -10,21 +10,8 @@
 * Ключевая на ваш взгляд функциональность обязательно покрыта тестами
 * Проект должен запускаться командой npm i && npm run start
 * Опционально: проект доступен на GitHub Pages/Vercel/etc.
-## Инструкция по установке:
-Клонируем репозиторий:
-```
-git clone https://github.com/YaPutya/Mindbox-todo-frontend-trainee.git
-```
-Переходим в папку проекта:
-```
-cd todos
-```
-Устанавливаем зависимости:
-```
-npm install
-```
-Запускаем проект на компьютере:
-```
-npm run start
-```
+## Запустить приложение:
+* npm i && npm run start
+## Посмотреть на heroku:
+* https://frontend-intern-mindbox.herokuapp.com/
 
